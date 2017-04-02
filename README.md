@@ -1,6 +1,7 @@
 # autoExportAppIcon
 
-#### One key to generate iOS app icon
+#### One key to generate iOS app icon  <br />
+![png](./source/source4.png)  <br />
 
 ### Useage
 `python /path/autoExportAppIcon.py /path/image.jpg`  <br />
