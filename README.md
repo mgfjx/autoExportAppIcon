@@ -1,5 +1,7 @@
 # autoExportAppIcon
 
+#### [fix] add 1024x1024
+
 #### One key to generate iOS app icon  <br />
 ![png](./source/source4.png)  <br />
 
